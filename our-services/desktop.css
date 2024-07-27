@@ -1,5 +1,5 @@
 
-    /* This file is auto-generated from a `scss` file with the same name */
+/* This file is auto-generated from a `scss` file with the same name */
 
 .videobgwrapper{overflow:hidden;position:absolute;z-index:0;width:100%;height:100%;top:0;left:0;pointer-events:none;border-radius:inherit}.videobgframe{position:absolute;width:101%;height:100%;top:50%;left:50%;transform:translateY(-50%) translateX(-50%);object-fit:fill}#dm video.videobgframe{margin:0}@media (max-width:767px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:80vh}}@media (min-width:1025px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}@media (min-width:768px) and (max-width:1024px){.responsiveTablet .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}#dm [data-show-on-page-only]{display:none!important}#dmRoot div.stickyHeaderFix div.site_content{margin-top:0!important}#dmRoot div.stickyHeaderFix div.hamburger-header-container{position:relative}
     
@@ -112,7 +112,7 @@ img[width][height] {
 
 *#dm *.dmBody div.u_1872155297 {
   background-repeat:no-repeat !important;
-  background-image:url(https://monopolyglitch.store/ignite/3-48b21f12-2880w.png) !important;
+  background-image:url(https://cdn.jsdelivr.net/gh/mohamediysa/ignite/3-48b21f12-2880w.png) !important;
   background-color:var(--color_6) !important;
   background-size:cover !important;
 }
@@ -600,7 +600,7 @@ img[width][height] {
     align-items: start;
     position: relative;
     background-color: rgba(255, 255, 255, 1);
-    background-image: url(https://monopolyglitch.store/ignite);
+    background-image: url(https://cdn.jsdelivr.net/gh/mohamediysa/ignite);
 }
     
 #\32 71ca103 {
@@ -1258,7 +1258,7 @@ img[width][height] {
     align-items: flex-start;
     position: relative;
     min-width: 4%;
-    background-image: url(https://monopolyglitch.store/ignite/Product%20%282%29-2880w.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/mohamediysa/ignite/Product%20%282%29-2880w.png);
     background-attachment: initial;
     border-radius: 22px;
     padding: 4% 4% 4% 4%;
@@ -1402,7 +1402,7 @@ img[width][height] {
     border-color: rgba(151, 151, 151, 0.2);
     border-style: solid;
     box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 11px 0px ;
-    background-image: url(https://monopolyglitch.store/ignite/Product%20%284%29-2880w.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/mohamediysa/ignite/Product%20%284%29-2880w.png);
     padding: 4% 4% 4% 4%;
     margin: 0px 0% 0px 0%;
 }
@@ -1475,7 +1475,7 @@ img[width][height] {
     border-color: rgba(151, 151, 151, 0.2);
     border-style: solid;
     box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 11px 0px ;
-    background-image: url(https://monopolyglitch.store/ignite/Product%20%283%29-2880w.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/mohamediysa/ignite/Product%20%283%29-2880w.png);
     padding: 4% 4% 4% 4%;
     margin: 0px 0% 0px 0%;
 }
@@ -2036,7 +2036,7 @@ img[width][height] {
     align-items: start;
     position: relative;
     background-color: var(--color_3);
-    background-image: url(https://monopolyglitch.store/ignite/website%20%282%29-8785d030-2880w.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/mohamediysa/ignite/website%20%282%29-8785d030-2880w.png);
 }
     
 #c91cb5cf {
@@ -2263,7 +2263,7 @@ img[width][height] {
     align-items: start;
     position: relative;
     background-color: rgba(255, 255, 255, 1);
-    background-image: url(https://monopolyglitch.store/ignite);
+    background-image: url(https://cdn.jsdelivr.net/gh/mohamediysa/ignite);
 }
     
 #e93d0a6b {
@@ -2394,7 +2394,7 @@ img[width][height] {
     min-width: 4%;
     order: 0;
     border-radius: 20px 20px 20px 20px;
-    background-image: url(https://monopolyglitch.store/ignite/website-fb07bc4f-2880w.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/mohamediysa/ignite/website-fb07bc4f-2880w.png);
     padding: 4% 4% 4% 4%;
     margin: 0px 0% 0px 0%;
 }
@@ -2433,7 +2433,7 @@ img[width][height] {
     align-items: start;
     position: relative;
     background-color: rgba(255, 255, 255, 1);
-    background-image: url(https://monopolyglitch.store/ignite);
+    background-image: url(https://cdn.jsdelivr.net/gh/mohamediysa/ignite);
 }
     
 #fbe573d1 {
@@ -2650,7 +2650,7 @@ img[width][height] {
     align-items: start;
     position: relative;
     background-color: rgba(255, 255, 255, 1);
-    background-image: url(https://monopolyglitch.store/ignite);
+    background-image: url(https://cdn.jsdelivr.net/gh/mohamediysa/ignite);
 }
     
 #\38 37f520a {
@@ -3296,7 +3296,7 @@ img[width][height] {
     align-items: flex-start;
     position: relative;
     min-width: 4%;
-    background-image: url("https://monopolyglitch.store/ignite/teniis-ball-ground-closeup-2880w.jpg");
+    background-image: url("https://cdn.jsdelivr.net/gh/mohamediysa/ignite/teniis-ball-ground-closeup-2880w.jpg");
     order: 1;
     border-radius: 20px;
     padding: 0px 0px 0px 0px;
@@ -3537,7 +3537,7 @@ img[width][height] {
     
 #\31 5615869 {
     border-radius: 20px;
-    background-image: url("https://monopolyglitch.store/ignite/teniis-ball-ground-closeup-2880w.jpg");
+    background-image: url("https://cdn.jsdelivr.net/gh/mohamediysa/ignite/teniis-ball-ground-closeup-2880w.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -3609,7 +3609,7 @@ img[width][height] {
     
 #\31 5615869 {
     border-radius: 20px;
-    background-image: url("https://monopolyglitch.store/ignite/teniis-ball-ground-closeup-2880w.jpg");
+    background-image: url("https://cdn.jsdelivr.net/gh/mohamediysa/ignite/teniis-ball-ground-closeup-2880w.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     width: 48%;
@@ -3670,7 +3670,7 @@ img[width][height] {
     align-items: center;
     order: 1;
     border-radius: 20px;
-    background-image: url("https://monopolyglitch.store/ignite/teniis-ball-ground-closeup-2880w.jpg");
+    background-image: url("https://cdn.jsdelivr.net/gh/mohamediysa/ignite/teniis-ball-ground-closeup-2880w.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -3740,7 +3740,7 @@ img[width][height] {
     
 #\31 5615869 {
     border-radius: 20px;
-    background-image: url("https://monopolyglitch.store/ignite/teniis-ball-ground-closeup-2880w.jpg");
+    background-image: url("https://cdn.jsdelivr.net/gh/mohamediysa/ignite/teniis-ball-ground-closeup-2880w.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
